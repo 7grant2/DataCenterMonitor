@@ -1,0 +1,30 @@
+body {
+
+}
+
+td { 
+    background-color: #fcfcfd;
+}
+
+td:hover:active { 
+    background: #cccccf;
+}
+
+td:hover { 
+    background: #ececed;
+}
+
+.bg {
+    background-color:#eee;
+}
+
+.fit {
+    width:100px;
+    height: auto;
+}
+.bottom-align-text {
+    position: absolute;
+    bottom: 0;
+    right: 5%;
+}
+
