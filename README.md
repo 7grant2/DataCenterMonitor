@@ -4,9 +4,13 @@ The Data Center Monitor is currently be used at Florida Atlantic University to m
 
 ![DCM Display](pictures/dcm_graph.png)
 
+# Database
+
 The MySQL Database is designed where there is a table for each given row, which maps to every rack within each row. The next table maps every rack to a specific type or rack, including ads, asdf, and asdf. Although a future implementation may include that a table for each rack, given that the mass amount of data may not be efficient for long term storage. However, this functions will for the current server room storing approximetly 3 months of information.
 
 ![DCM Display](pictures/dcm_db.png)
+
+# Website
 
 A single page website utilizing the Bootstrap framework was also made to act as a directory for clicking to a specified graph within Grafana. 
 
